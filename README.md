@@ -1,4 +1,9 @@
 # Criminal-activities-in-India-Tableau-Project
+![Alt Text](CrimesInIndia.png)
+![Alt Text](MurdersInIndia.png)
+![Alt Text](IPCCrimesInIndia.png)
+![Alt Text](KidnapsInIndia.png)
+
 
 ## Introduction
 Welcome to the Criminal Activities in India Tableau project! This project aims to analyze and visualize data related to criminal activities in India using Tableau. By leveraging interactive dashboards and visualizations, we can gain insights into various aspects of crime trends, patterns, and distribution across different states and regions in India.
